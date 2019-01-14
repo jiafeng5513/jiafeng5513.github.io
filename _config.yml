@@ -1,0 +1,21 @@
+# Site settings
+title: DreamSoft
+zhtitle: DreamSoft
+email: jiafeng5513@outlook.com
+description: > # this means to ignore newlines until "baseurl:"
+  Jia Feng's Blog.
+  Contact me with QQ-1535432383
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+
+github_username:  jiafeng5513
+CSDN_link: https://blog.csdn.net/Angle_Cal
+bilibili_uid: 7666866
+# Build settings
+markdown: kramdown
+
+paginate: 4
+
+author: Your name
+
+gems: [jekyll-paginate]

@@ -16,6 +16,6 @@ markdown: kramdown
 
 paginate: 4
 
-author: Your name
+author: jia feng
 
 gems: [jekyll-paginate]
